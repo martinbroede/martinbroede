@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @martinbro
-- 👀 I’m interested in hiking, music and programming.
-- 🌱 I’m currently learning Python and Java.
+- 👋 Hi, I’m Martin Broede
+- 👀 I’m interested in programming, math, science in general, music and theatre.
+- 🌱 I’m currently extending my Python and Java skills.
 - 📫 How to reach me: martinbro2021[at]yahoo-com
 
 <!---
