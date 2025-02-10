@@ -1,11 +1,21 @@
-- 👋 Hi, I’m Martin Broede
-- 👀 I’m interested in programming, math, science, music, theatre and nature
-- 🌱 I’m curious about all topics related to programming
-- 📫 How to reach me: martinbro2021[at]yahoo-com
+Hi, I'm Martin Broede,
 
-If you have a question related to one of my projects feel free to contact me.
+a software developer and musician with an interest in everything related to music, theater, programming, math and science. If you want to learn more about me, feel free to visit [my website](https://broede.dev).
 
-<!---
-martinbro2021/martinbro2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm the creator of the open-source monitoring tool **Django Log Lens**, a scheduling software called **MeetSheet** and some other useful as well as completely nonsensical things. 
+
+<span>
+    <a href="https://broede.dev">
+        <img src="img/code.svg" height="80rem" />
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href="https://meetsheet.app">
+        <img src="img/meetsheet.svg" height="80rem" />
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href="https://pypi.org/project/django-log-lens/">
+        <img src="https://raw.githubusercontent.com/martinbroede/django-log-lens/main/django_log_lens/static/django_log_lens/logo.svg" height="80px" />
+    </a>
+</span>
